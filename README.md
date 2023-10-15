@@ -52,8 +52,8 @@ testuj.pl
 
 # WEBINARIA
 
-Maraton online Qaality Assurance
+Maraton online Qaality Assurance GO IT
 
 # MOJE PROJEKTY
 
-Projekt indywidualny - test serwisu OLX
+Projekt indywidualny - test serwisu 
