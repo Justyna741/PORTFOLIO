@@ -15,20 +15,19 @@ Podstawy manualnego testowania oprogramowania  (udemy.com)
 Praktyczny kurs testowania oprogramowania  (udemy.com)
 Testowanie manualne w praktyce - Challenge Dare IT
 
-CERTFIKATY
+# CERTFIKATY
 
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/
 
-# nagłówek 1
-
+# KSIĄZKI
 Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
 
-# nagłówek 1
+# BLOGI
 
 testerzy.pl
 testuj.pl
 
-# nagłówek 1
+# NARZĘDZIA
 
 Jira – narzędzie do śledzenia błędów
 Slack - do komunikacji w zespole
@@ -50,10 +49,10 @@ Testy eksploracyjne
 Tworzenie przypadków testowych
 Zgłaszanie błędów
 
-# nagłówek 1
+# WEBINARIA
 
 Maraton online Qaality Assurance
 
-# nagłówek 1
+# MOJE PROJEKTY
 
 Projekt indywidualny - test serwisu OLX
