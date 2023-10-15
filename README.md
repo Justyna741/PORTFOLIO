@@ -42,7 +42,7 @@ testuj.pl
 :point_right:  Screenpresso  
 :point_right:  Postman - narzędzie do testowania API REST  
 
-Umiejętności techniczne  
+# Umiejętności techniczne  
 
 :arrow_forward:Testowanie oprogramowania WEBOWEGO  
 :arrow_forward:Testowanie aplikacji mobilnej OLX   
