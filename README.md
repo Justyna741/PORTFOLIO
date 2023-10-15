@@ -32,16 +32,15 @@ testuj.pl
 :point_right:Jira – narzędzie do śledzenia błędów  
 :point_right: Slack - do komunikacji w zespole  
 :point_right:Chrome DevTools - do testowania i ulepszania raportów o błędach
-
-SQL
-GitHub
-QTEST- narzedzie do zarządzania przypadkami testowymi
-Platforma BrowerStack
-PickPick
-Sharex
-Testlink
-Screenpresso
-Postman - narzędzie do testowania API REST
+:point_right:SQL  
+:point_right:GitHub  
+:point_right:QTEST- narzedzie do zarządzania przypadkami testowymi
+:point_right:Platforma BrowerStack
+:point_right:PickPick  
+:point_right:Sharex  
+:point_right:Testlink  
+:point_right:  Screenpresso
+:point_right:  Postman - narzędzie do testowania API REST
 
 Umiejętności techniczne
 Testowanie oprogramowania WEBOWEGO
