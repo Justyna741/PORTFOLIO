@@ -9,27 +9,27 @@ Nazywam się Justyna Majewska. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam 
 Moje doświadczenie to ponad 15 lat w logistyce. 10 lat w firmie kurierskiej i kkolejne lata na stanowsku koordunatora ds logistyki w firmir zajmujacej sie sprzedażą internetową gł. na świat.
 
 
-# nagłówek 1
+KURSY
 
 Podstawy manualnego testowania oprogramowania  (udemy.com)
 Praktyczny kurs testowania oprogramowania  (udemy.com)
 Testowanie manualne w praktyce - Challenge Dare IT
 
 
-# nagłówek 1
+CERTFIKATY
 
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/
 
-# nagłówek 1
+KSIĄŻKI
 
 Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
 
-# nagłówek 1
+BLOGI
 
 testerzy.pl
 testuj.pl
 
-# nagłówek 1
+NARZEDZIA
 
 Jira – narzędzie do śledzenia błędów
 Slack - do komunikacji w zespole
@@ -51,10 +51,10 @@ Testy eksploracyjne
 Tworzenie przypadków testowych
 Zgłaszanie błędów
 
-# nagłówek 1
+WEBINARIA
 
 Maraton online Qaality Assurance
 
-# nagłówek 1
+MOJE PROJEKTY
 
 Projekt indywidualny - test serwisu OLX
