@@ -52,7 +52,7 @@ testuj.pl
 
 # WEBINARIA
 
-Maraton online Qaality Assurance GO IT
+Maraton online Qaality Assurance GoIT Polska
 
 # MOJE PROJEKTY
 
