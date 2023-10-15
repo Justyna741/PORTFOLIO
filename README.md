@@ -11,9 +11,9 @@ Moje doświadczenie to ponad 15 lat w logistyce. 10 lat w firmie kurierskiej i k
 
 # KURSY
 
-Podstawy manualnego testowania oprogramowania  (udemy.com)  
-Praktyczny kurs testowania oprogramowania  (udemy.com)  
-Testowanie manualne w praktyce - Challenge Dare IT  
+- Podstawy manualnego testowania oprogramowania  (udemy.com)  
+- Praktyczny kurs testowania oprogramowania  (udemy.com)  
+- Testowanie manualne w praktyce - Challenge Dare IT  
 
 # CERTFIKATY
 
