@@ -24,8 +24,8 @@ Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
 
 # BLOGI
 
-testerzy.pl
-testuj.pl
+testerzy.pl  
+testuj.pl  
 
 # NARZĘDZIA
 
@@ -56,4 +56,5 @@ Maraton online Qaality Assurance GoIT Polska
 
 # MOJE PROJEKTY
 
-Projekt indywidualny - test serwisu 
+Projekt indywidualny  
+
