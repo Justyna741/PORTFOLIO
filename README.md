@@ -30,8 +30,11 @@ testuj.pl
 # NARZĘDZIA
 
 :arrow_forward: Jira – narzędzie do śledzenia błędów
+
 :arrow_forward: Slack - do komunikacji w zespole
+
 :arrow_forward: Chrome DevTools - do testowania i ulepszania raportów o błędach
+
 SQL
 GitHub
 QTEST- narzedzie do zarządzania przypadkami testowymi
