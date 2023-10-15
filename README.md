@@ -1,2 +1,3 @@
-# PORTFOLIO JUSTYNA MAJEWSKA
+# PORTFOLIO 
 O MNIE
+Nazywam się Justyna Majewska 
