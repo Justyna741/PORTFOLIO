@@ -29,8 +29,8 @@ testuj.pl
 
 # NARZĘDZIA
 
-:point_right:Jira – narzędzie do śledzenia błędów
-:point_right: Slack - do komunikacji w zespole
+:point_right:Jira – narzędzie do śledzenia błędów  
+:point_right: Slack - do komunikacji w zespole  
 :point_right:Chrome DevTools - do testowania i ulepszania raportów o błędach
 
 SQL
