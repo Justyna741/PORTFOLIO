@@ -19,7 +19,7 @@ Testowanie manualne w praktyce - Challenge Dare IT
 
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/
 
-# KSIĄZKI
+# KSIĄŻKI
 Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
 
 # BLOGI
