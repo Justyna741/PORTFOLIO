@@ -8,13 +8,15 @@ Nazywam się Justyna Majewska. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam 
 
 Moje doświadczenie to ponad 15 lat w logistyce. 10 lat w firmie kurierskiej i kolejne lata na stanowsku koordunatora ds logistyki w firmir zajmujacej sie sprzedażą internetową gł. na świat.
 
----KURSY
+# nagłówek 1
+
 Podstawy manualnego testowania oprogramowania  (udemy.com)
 Praktyczny kurs testowania oprogramowania  (udemy.com)
 Testowanie manualne w praktyce - Challenge Dare IT
 
 
-CERTYFIKATY
+# nagłówek 1
+
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/
 
 # nagłówek 1
