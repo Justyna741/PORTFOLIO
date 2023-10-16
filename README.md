@@ -57,4 +57,9 @@ Maraton online Qaality Assurance GoIT Polska
 # MOJE PROJEKTY
 
 Projekt indywidualny  
+I TESTOWANIE APLIKACJI WEBOWYCH
+
+1.Pisanie przypadków testowych na podstawie User Story
+https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit
+2 
 
