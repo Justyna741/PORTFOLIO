@@ -58,7 +58,8 @@ Maraton online Qaality Assurance GoIT Polska
 
 Projekt indywidualny  
 
-:rocket:TESTOWANIE APLIKACJI WEBOWYCH
+:rocket:TESTOWANIE APLIKACJI WEBOWYCH 
+na przykładzie strony  https://scouts-test.futbolkolektyw.pl/pl .
 
 1.Pisanie przypadków testowych na podstawie User Story  
 https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit  
