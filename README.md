@@ -68,4 +68,6 @@ https://docs.google.com/spreadsheets/d/1cDTs16zm-lB25KGQgauGQKRLpMO-0yyxCecL834Z
 
 :rocket:TESTOWANIE APLIKACJI MOBILNEJ OLX 
 
+1.Raportowanie błędów
+
 https://docs.google.com/spreadsheets/d/1k_fdO4aF-ymGRydi8MQjYs4pIYCnUu9KnxQ2lDbR3es/edit#gid=0
