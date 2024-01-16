@@ -18,7 +18,8 @@ Moje doświadczenie to ponad 15 lat w logistyce. 10 lat w firmie kurierskiej i k
 # CERTFIKATY
 
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/
-file:///C:/Users/user/Desktop/CERTYFIKAT%20PRAKTYCZNY%20KURS%20TESTOWANIA%20OPROGRAMOWANIA%20%20UDEMY.pdf
+https://www.udemy.com/certificate/UC-a29822cc-b37a-451a-92ed-f5ddfe41663f/
+EN_Certificate of completion_Manual Testing in Practice_Justyna Majewska
 
 # KSIĄŻKI
 Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
