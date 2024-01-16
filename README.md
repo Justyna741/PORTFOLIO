@@ -18,7 +18,8 @@ Moje doświadczenie to ponad 15 lat w logistyce. 10 lat w firmie kurierskiej i k
 # CERTFIKATY
 
 https://www.udemy.com/certificate/UC-95064228-455c-49a2-b1fc-9fe13bc19d0c/ 
-https://www.udemy.com/certificate/UC-a29822cc-b37a-451a-92ed-f5ddfe41663f/
+https://www.udemy.com/certificate/UC-a29822cc-b37a-451a-92ed-f5ddfe41663f/ 
+https://ud.interia.pl/html/getattach,mid,90681,mpid,6,uid,d83dd11d8c328fdf,/EN_Certificate%20of%20completion_Manual%20Testing%20in%20Practice_Justyna%20Majewska.pdf?f=EN_Certificate%20of%20completion_Manual%20Testing%20in%20Practice_Justyna%20Majewska.pdf
 
 
 # KSIĄŻKI
