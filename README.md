@@ -25,22 +25,22 @@ https://ud.interia.pl/html/getattach,mid,90681,mpid,6,uid,d83dd11d8c328fdf,/EN_C
 # NARZĘDZIA
 
 :point_right:Jira – narzędzie do śledzenia błędów  
-:point_right: Slack - do komunikacji w zespole  
 :point_right:Chrome DevTools - do testowania i ulepszania raportów o błędach  
+:point_right:Postman - narzędzie do testowania API REST 
 :point_right:xampp i my SQL  
-:point_right:GitHub  
 :point_right:QTEST- narzedzie do zarządzania przypadkami testowymi  
+:point_right:Testlink  
+:point_right:GitHub  
 :point_right:Platforma BrowerStack  
 :point_right:PickPick  
 :point_right:Sharex  
-:point_right:Testlink  
-:point_right:  Screenpresso  
-:point_right:  Postman - narzędzie do testowania API REST  
+:point_right:Screenpresso  
+:point_right:Slack - do komunikacji w zespole  
 
 # UMIEJĘTNOŚCI TECHNICZNE 
 
-:arrow_forward:Raportowanie testów
-:arrow_forward:Zapytania sqlowe
+:arrow_forward:Raportowanie testów  
+:arrow_forward:Zapytania sqlowe  
 :arrow_forward:Testowanie oprogramowania WEBOWEGO  
 :arrow_forward:Testowanie aplikacji mobilnej OLX   
 :arrow_forward:Testy eksploracyjne  
