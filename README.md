@@ -22,20 +22,12 @@ https://www.udemy.com/certificate/UC-a29822cc-b37a-451a-92ed-f5ddfe41663f/
 https://ud.interia.pl/html/getattach,mid,90681,mpid,6,uid,d83dd11d8c328fdf,/EN_Certificate%20of%20completion_Manual%20Testing%20in%20Practice_Justyna%20Majewska.pdf?f=EN_Certificate%20of%20completion_Manual%20Testing%20in%20Practice_Justyna%20Majewska.pdf
 
 
-# KSIĄŻKI
-Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
-
-# BLOGI
-
-testerzy.pl  
-testuj.pl  
-
 # NARZĘDZIA
 
 :point_right:Jira – narzędzie do śledzenia błędów  
 :point_right: Slack - do komunikacji w zespole  
 :point_right:Chrome DevTools - do testowania i ulepszania raportów o błędach  
-:point_right:SQL  
+:point_right:xampp i my SQL  
 :point_right:GitHub  
 :point_right:QTEST- narzedzie do zarządzania przypadkami testowymi  
 :point_right:Platforma BrowerStack  
@@ -47,15 +39,14 @@ testuj.pl
 
 # UMIEJĘTNOŚCI TECHNICZNE 
 
+:arrow_forward:Raportowanie testów
+:arrow_forward:Zapytania sqlowe
 :arrow_forward:Testowanie oprogramowania WEBOWEGO  
 :arrow_forward:Testowanie aplikacji mobilnej OLX   
 :arrow_forward:Testy eksploracyjne  
 :arrow_forward:Tworzenie przypadków testowych  
 :arrow_forward:Zgłaszanie błędów  
 
-# WEBINARIA
-
-Maraton online Qaality Assurance GoIT Polska
 
 # MOJE PROJEKTY
 
@@ -73,4 +64,17 @@ https://docs.google.com/spreadsheets/d/1cDTs16zm-lB25KGQgauGQKRLpMO-0yyxCecL834Z
 
 1.Raportowanie błędów
 
-https://docs.google.com/spreadsheets/d/1k_fdO4aF-ymGRydi8MQjYs4pIYCnUu9KnxQ2lDbR3es/edit#gid=0
+https://docs.google.com/spreadsheets/d/1k_fdO4aF-ymGRydi8MQjYs4pIYCnUu9KnxQ2lDbR3es/edit#gid=0 
+
+# KSIĄŻKI
+Podróż przez testowanie Karolina Pawłowska & Natalia Pawlak
+
+# BLOGI
+
+testerzy.pl  
+testuj.pl  
+
+# WEBINARIA
+
+Maraton online Qaality Assurance GoIT Polska
+
