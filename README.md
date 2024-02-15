@@ -39,24 +39,24 @@ https://ud.interia.pl/html/getattach,mid,90681,mpid,6,uid,d83dd11d8c328fdf,/EN_C
 
 # UMIEJĘTNOŚCI TECHNICZNE 
 
-:arrow_forward:Raportowanie testów  
-:arrow_forward:Zapytania sqlowe  
-:arrow_forward:Testowanie oprogramowania WEBOWEGO  
-:arrow_forward:Testowanie aplikacji mobilnej OLX   
+:arrow_forward:Raportowanie testów   
+:arrow_forward:Zapytania sqlowe   
+:arrow_forward:Testowanie oprogramowania WEBOWEGO   
+:arrow_forward:Testowanie aplikacji mobilnej OLX    
 :arrow_forward:Testy eksploracyjne  
 :arrow_forward:Tworzenie przypadków testowych  
 :arrow_forward:Zgłaszanie błędów  
 
 # UMIEJĘTNOŚCI MIĘKKIE
 
-:arrow_forward:wysoka kultura osobista
-:arrow_forward:świetna organizacja pracy (także przy pracy zdalnej)
-:arrow_forward:dbałość o dobrą atmosferę i komunikację w zespole  
-:arrow_forward:duża motywacja do pracy
-:arrow_forward:chęć do nauki i samorozwoju
-:arrow_forward:potrafię pracować według ścisłych wytycznych
-:arrow_forward:życzliwość i pozytywne nastawienie do ludzi
-:arrow_forward:doskonałe zarządzanie czasem i terminowość
+:arrow_forward:wysoka kultura osobista  
+:arrow_forward:świetna organizacja pracy (także przy pracy zdalnej)  
+:arrow_forward:dbałość o dobrą atmosferę i komunikację w zespole   
+:arrow_forward:duża motywacja do pracy  
+:arrow_forward:chęć do nauki i samorozwoju  
+:arrow_forward:potrafię pracować według ścisłych wytycznych  
+:arrow_forward:życzliwość i pozytywne nastawienie do ludzi  
+:arrow_forward:doskonałe zarządzanie czasem i terminowość  
 
 
 # MOJE PROJEKTY
